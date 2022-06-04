@@ -50,6 +50,4 @@ vim vars/main.yml
 
 ### Running the tasks with Ansible
 
-This tasks in this repository are not functional on their own. You need to follow our guide on [computingforgeeks.com](https://computingforgeeks.com) shared in the link below:
-
-[How To Deploy OpenShift Container Platform on KVM](https://computingforgeeks.com/how-to-deploy-openshift-container-platform-on-kvm/)
+This tasks in this repository are to create an environment for OCP install. Official RHEL guide needs to be followed for further instructions.
